@@ -36,7 +36,7 @@ This project implements a machine learning-based stock predictor to analyze NVID
 
 ### Clone the Repository
 ```bash
-git clone [<repository_url>](https://github.com/vaibhav-prasad707/DeepSeek_LSTM.git)
+git clone https://github.com/vaibhav-prasad707/DeepSeek_LSTM.git
 ```
 
 ---
